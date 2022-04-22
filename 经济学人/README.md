@@ -1,12 +1,11 @@
 # 经济学人为何备受青睐？
 
-The Economist Style Guide1
-
+> The Economist Style Guide1  
 No gimmickry is needed, no flowery language, no literary contrivance. Plain words on their own carry enough meaning to provoke an intriguing thought, stir the reader\'s curiosity and thus make him want to continue.
 
 经济学人写作指导中，要求文章要朴实无华，要用最简单的文字来激发读者思考。这是很多人青睐经济学人的一个很大原因。
 
-The Economist Style Guide2
+> The Economist Style Guide2
 
 Articles in The Economist should be like essays, in that they have a beginning, a middle and an end. They should not be mere bits of information stitched together. Each should be a coherent whole, a series of paragraphs that follow logically in order and, ideally, will suffer if even one sentence is cut out.
 
@@ -14,8 +13,7 @@ Articles in The Economist should be like essays, in that they have a beginning, 
 
 上面两点是对于文章用词和行文逻辑的要求，这两点颇受英语学习者好评。但是下面这一点，可能会造成其文章难以模仿：
 
-The Economist Style Guide3
-
+> The Economist Style Guide3  
 If the article is a report, the facts must be selected and presented as a story. If it is a leader or more analytical article, it should also have a sense of sequence, so that the reader feels he is progressing from a beginning to a conclusion.
 
 指导要求：如果文章是一篇报道，那就需要将那些新闻像故事那样拼接讲述出来；如果是一篇社论或深论，那也要讲究顺序，循序渐进地铺陈展开，要让读者清晰地感受到自己是从哪里出发，最后得到了什么结论。
@@ -32,8 +30,7 @@ If the article is a report, the facts must be selected and presented as a story.
 
 经济学人这本期刊的政治气味很浓，这就意味着很大一部分文章我们是不需要看的，因为看了也对我们的雅思写作没有作用。
 
-Wikipedia
-
+> Wikipedia  
 The Economist is an international weekly newspaper printed in magazine-format and published digitally that focuses on current affairs, international business, politics, technology, and culture.
 
 经济学人作为一个周刊，它是会聚焦时事热点，会将新闻背景进行介绍，而后再进行分析。分析的过程中还会插入很多政治性话题，我相信这部分即使写得再好，我们也是不能模仿或者模仿不来的，因为这对于雅思写作一点作用都没有。
@@ -48,8 +45,7 @@ The Economist is an international weekly newspaper printed in magazine-format an
 
 ## 某些用词也不适合
 
-The Economist Style Guide4
-
+> The Economist Style Guide4  
 In moderation, however, you can enliven your writing with a fresh metaphor, an occasional exuberance or an unusual word or phrase that nicely suits your purpose.
 
 经济学人中的某些词也是不适合我们模仿的，它们可能是该话题下比较应景的词，放在哪个语境下会显得用词巧妙，但如果我们将它搬出去，用到一般的场合，就会显得很奇怪了。
@@ -68,7 +64,7 @@ In moderation, however, you can enliven your writing with a fresh metaphor, an o
 
 下面我通过分析一篇经济学人的文章，来证明为什么经济学人的写作方式并不适合我们来模仿。
 
-\| 文章示例 How to avoid a fatal backlash against globalisation
+| 文章示例 How to avoid a fatal backlash against globalisation
 
 开篇，作者讲了19实际的伦敦人的生活如何舒适：打电话点外卖，在床上享受早茶，可以买到世界各地的货物。然后作者开始回顾19世纪全球化的兴与衰。
 
