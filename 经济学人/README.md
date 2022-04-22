@@ -1,0 +1,77 @@
+# 经济学人为何备受青睐？
+
+> The Economist Style Guide1  
+> No gimmickry is needed, no flowery language, no literary contrivance. Plain words on their own carry enough meaning to provoke an intriguing thought, stir the reader\'s curiosity and thus make him want to continue.
+
+经济学人写作指导中，要求文章要朴实无华，要用最简单的文字来激发读者思考。这是很多人青睐经济学人的一个很大原因。
+
+> The Economist Style Guide2  
+Articles in The Economist should be like essays, in that they have a beginning, a middle and an end. They should not be mere bits of information stitched together. Each should be a coherent whole, a series of paragraphs that follow logically in order and, ideally, will suffer if even one sentence is cut out.
+
+同时，经济学人要求文章要逻辑严密，结构清晰。要到达什么地步呢？即使删除一句话，整体的意思都会受到影响。
+
+上面两点是对于文章用词和行文逻辑的要求，这两点颇受英语学习者好评。但是下面这一点，可能会造成其文章难以模仿：
+
+> The Economist Style Guide3  
+If the article is a report, the facts must be selected and presented as a story. If it is a leader or more analytical article, it should also have a sense of sequence, so that the reader feels he is progressing from a beginning to a conclusion.
+
+指导要求：如果文章是一篇报道，那就需要将那些新闻像故事那样拼接讲述出来；如果是一篇社论或深论，那也要讲究顺序，循序渐进地铺陈展开，要让读者清晰地感受到自己是从哪里出发，最后得到了什么结论。
+
+这种叙述风格的要求，简直要了我们雅思作文的命了。雅思作文不能讲故事，也容不得旁征博引，娓娓道来；只能在250字的篇幅内讲观点与细节紧锣密鼓地抛出去。如果我们看的文章符合上面"删一句而动全篇"的结构要求，将经济学人中的一篇长篇大论凝练成250字的小作文，难度可想而知！
+
+# 经济学人不适合雅思写作的原因
+
+经济学人我已看了两年，阅读能力肯定是进步的，但是我的写作水平却没什么改变。除去自身的原因，我觉得跟着经济学人学习写作是有很大问题的。不是说经济学人的文章不好，恰恰相反，它里面的文章太好了，这反而让我们难以模仿。下面，我就雅思考试写作而言，来讲讲为什么经济学人不适合模仿。
+
+就自身经验来谈，经济学人的话题、叙述方式、文章结构都与雅思写作大相径庭，下面我具体来讲讲。
+
+## 话题不合适
+
+经济学人这本期刊的政治气味很浓，这就意味着很大一部分文章我们是不需要看的，因为看了也对我们的雅思写作没有作用。
+
+> Wikipedia  
+The Economist is an international weekly newspaper printed in magazine-format and published digitally that focuses on current affairs, international business, politics, technology, and culture.
+
+经济学人作为一个周刊，它是会聚焦时事热点，会将新闻背景进行介绍，而后再进行分析。分析的过程中还会插入很多政治性话题，我相信这部分即使写得再好，我们也是不能模仿或者模仿不来的，因为这对于雅思写作一点作用都没有。
+
+## 写作手法不合适
+
+除了政治性话题，经济学人杂志还包含商业、科技、文化类等话题，是不是这些话题相关的文章就可以为我们所用？答案是：未必。
+
+虽然这些话题也是雅思写作考察的话题，但是雅思考试有250字的篇幅限制，这就需要我们紧凑地点题，发表观点，给出说明与例子，然后迅速收兵。而经济学人的篇幅可就大了，它可以将事件的细枝末节糅合成一段故事，然后将故事的始末娓娓道来。这种论述手法在科学期刊上也经常看到，抽丝剥茧，层层递进，与雅思的写作方法大相径庭。
+
+经济学人表达自己的观点也很谨慎。它一般通过讲故事的形式，旁征博引，讲述一些最近发生的代表性事件来体现自己的观点，即便是native English speaker 也要花时间理解一下，而不会像雅思写作那样，将观点表露得很直白。这种基于事实（或是部分事实）的模糊态度，会让杂志文章看上去比较中肯，但是也给英语学习者一种绕来绕去的感觉，文章手法，没有丰富写作经验的人根本模仿不来。
+
+## 某些用词也不适合
+
+> The Economist Style Guide4  
+In moderation, however, you can enliven your writing with a fresh metaphor, an occasional exuberance or an unusual word or phrase that nicely suits your purpose.
+
+经济学人中的某些词也是不适合我们模仿的，它们可能是该话题下比较应景的词，放在哪个语境下会显得用词巧妙，但如果我们将它搬出去，用到一般的场合，就会显得很奇怪了。
+
+# 如何利用经济学人？
+
+相信大家都听过一个笑话------遇到打劫时，淡定地对劫匪说："不是看你要什么，而是看我有什么！"
+
+学习也是一样，不要看你这篇文章写了什么，而要看我能从中学到什么，如果我什么都学不到，即便是经济学人的Leader 文章，那也与垃圾无异。
+
+当然，经济学人这么好的杂志，我们将它看作是垃圾肯定是暴殄天物。我们怎样通过经济学人来提升自己的雅思写作水平呢？
+
+不仅仅是经济学人，放眼比较出名的英文杂志，很少有适合雅思写作直接模仿的。但真的就走投无路了吗？
+
+我们经常看到一些博主分享自己学习经济学人的好词好句，但鲜有人分析经济学人的文章结构然后进行模仿的。所以对于经济学人，大部分文章都只适合进行词句的摘抄模仿，而不是整篇文章的模仿。
+
+下面我通过分析一篇经济学人的文章，来证明为什么经济学人的写作方式并不适合我们来模仿。
+
+# 文章示例 
+**How to avoid a fatal backlash against globalisation**
+
+开篇，作者讲了19实际的伦敦人的生活如何舒适：打电话点外卖，在床上享受早茶，可以买到世界各地的货物。然后作者开始回顾19世纪全球化的兴与衰。
+
+接下来的3段讲的是19世纪全球化的历史；第5段开始思考这些历史对我们有什么教育意义，思考了如今的收入趋同的原因是什么，那些处于全球化劣势的人采取的措施是什么，战争对于全球化产生的负面影响。
+
+可以发现，文章的话题深度和角度是要远超过雅思考试的，这也是很多精英们读经济学人的原因。
+
+不要说是模仿，即使单纯地去理解也够你喝一壶的。
+
+我们能做的，只有将里面比较好的词句摘抄下来，即模仿仅仅是停留在句法上面。而文法这个东西，知识储备不够的话就不要奢望了。
