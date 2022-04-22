@@ -75,3 +75,4 @@ In moderation, however, you can enliven your writing with a fresh metaphor, an o
 不要说是模仿，即使单纯地去理解也够你喝一壶的。
 
 我们能做的，只有将里面比较好的词句摘抄下来，即模仿仅仅是停留在句法上面。而文法这个东西，知识储备不够的话就不要奢望了。
+
