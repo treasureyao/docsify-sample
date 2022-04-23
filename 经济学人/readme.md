@@ -1,1 +1,1 @@
-经济学人不适合备考雅思
+The economist is not suitable for IELTS preparation.
